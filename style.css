@@ -53,7 +53,7 @@ section{
 }
 .telehealth{
     text-align: center;
-    border: 5px solid red;
+    
     background-image: url("images/tele.png");
     background-repeat: no-repeat;
     height: 150px;
@@ -121,4 +121,19 @@ section{
 .backtime{
     background-color: rgb(241, 239, 239);
     height: 700px;
+}
+#teletextf{
+    float: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color:white;
+}
+#telebuttonf{
+    float: right;
+}
+.teletextf{
+    position: absolute;
+    margin-left: 800px ;
+    margin:;
 }
