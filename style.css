@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+}
+h1{
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 60px;
+}
+section{
+    height: 500px;
+    padding-bottom: 8px;
+}
+#dr-basim {
+    color: darkcyan;
+}
+#main-header{
+    line-height: .3;
+}
+.for-para{
+    font-family: 'Montserrat', sans-serif;
+    color: dimgray;
+    font-weight: 580;
+}
+.font-sans{
+    font-family: 'Poppins', sans-serif;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, skyblue,darkcyan );
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.margin-one{
+    margin-bottom: 5px;
+}
+#clinic-class{
+    font-size: 43px;
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+}
+.clinic-dev{
+    float: left;
+}
+.telehealth{
+    text-align: center;
+    border: 5px solid red;
+    background-image: url("images/tele.png");
+    background-repeat: no-repeat;
+    height: 150px;
+    background-size: 700px 150px;
+    background-position: center;
+}
+.navbar{
+    text-align: right;
+    
+    font-family: 'Montserrat', sans-serif;
+    color: dimgray;
+    font-weight: 900;
+}
+.footer-image{
+    height: 30px;
+    width: 30px;
+    margin: 0px 10px 10px 5px ;
+}
+.navbarmargin{
+    margin-right: 20px;
+    text-decoration: none;
+    color: dimgray;
+}
+.footer{
+    text-align: center;
+}
+#drbasim{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+#stayt{
+    font-family: 'Montserrat', sans-serif;
+    color: dimgray;
+}
+.three-image{
+  
+  margin: 33px;
+  float: left;
+  width: 200px;
+}
+.three-image img{
+    width: 200px;
+    height: auto;
+}
+.box-shodow{
+    float: left;
+    margin: 184px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 55%;
+}
+.text{
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-weight: 700;
+    padding: 15px;
+  text-align: center;
+}
+#footup{
+    margin: 140px;
+}
+#teletext{
+    font-size: 40px;
+}
+.backtime{
+    background-color: rgb(241, 239, 239);
+    height: 700px;
+}
